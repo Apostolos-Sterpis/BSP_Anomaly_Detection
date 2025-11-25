@@ -1,0 +1,17 @@
+# Ignore large datasets
+data/*/method_ready/*.npy
+data/*/cleaned/*.csv
+data/*/cleaned/*.json
+
+# Optional: ignore all data outputs except raw
+data/
+
+# Ignore results/ plots
+results/
+
+# Ignore Jupyter checkpoints
+notebooks/.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
