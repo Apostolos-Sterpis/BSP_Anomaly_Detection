@@ -1,0 +1,7 @@
+{
+    "name": "PowerDemand1",
+    "train_end": 9000,
+    "anomaly_start": 18485,
+    "anomaly_end": 18821,
+    "length": 29931
+}

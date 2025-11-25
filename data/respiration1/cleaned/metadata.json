@@ -1,0 +1,7 @@
+{
+    "name": "respiration1",
+    "train_end": 100000,
+    "anomaly_start": 110260,
+    "anomaly_end": 110412,
+    "length": 200000
+}

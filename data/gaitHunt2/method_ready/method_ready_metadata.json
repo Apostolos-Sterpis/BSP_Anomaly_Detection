@@ -1,0 +1,8 @@
+{
+    "dataset": "gaitHunt2",
+    "normalization": "z-score",
+    "window_size": 128,
+    "step": 1,
+    "num_windows": 63873,
+    "original_length": 64000
+}

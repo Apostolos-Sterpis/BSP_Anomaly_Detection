@@ -1,0 +1,7 @@
+{
+    "name": "DISTORTEDInternalBleeding4",
+    "train_end": 1000,
+    "anomaly_start": 4675,
+    "anomaly_end": 5033,
+    "length": 7321
+}

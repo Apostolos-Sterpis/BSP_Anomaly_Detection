@@ -1,0 +1,8 @@
+{
+    "dataset": "InternalBleeding16",
+    "normalization": "z-score",
+    "window_size": 128,
+    "step": 1,
+    "num_windows": 7374,
+    "original_length": 7501
+}

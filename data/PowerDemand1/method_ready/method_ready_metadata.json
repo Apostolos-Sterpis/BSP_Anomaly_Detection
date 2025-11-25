@@ -1,0 +1,8 @@
+{
+    "dataset": "PowerDemand1",
+    "normalization": "z-score",
+    "window_size": 128,
+    "step": 1,
+    "num_windows": 29804,
+    "original_length": 29931
+}

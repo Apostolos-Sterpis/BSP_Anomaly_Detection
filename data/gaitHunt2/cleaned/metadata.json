@@ -1,0 +1,7 @@
+{
+    "name": "gaitHunt2",
+    "train_end": 18500,
+    "anomaly_start": 31200,
+    "anomaly_end": 31850,
+    "length": 64000
+}

@@ -1,0 +1,7 @@
+{
+    "name": "NOISEInternalBleeding16",
+    "train_end": 1200,
+    "anomaly_start": 4187,
+    "anomaly_end": 4199,
+    "length": 7501
+}
