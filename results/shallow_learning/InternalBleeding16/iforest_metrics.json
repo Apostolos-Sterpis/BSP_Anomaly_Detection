@@ -1,0 +1,28 @@
+{
+  "dataset": "InternalBleeding16",
+  "method": "iforest",
+  "threshold": 0.0020416873183900677,
+  "q": 0.995,
+  "precision": 0.015306122448979591,
+  "recall": 1.0,
+  "f1": 0.03015075376884422,
+  "accuracy": 0.8774797651166482,
+  "tn": 5517,
+  "fp": 772,
+  "fn": 0,
+  "tp": 12,
+  "eval_len": 6301,
+  "window_metrics": {
+    "precision": 0.25,
+    "recall": 0.05714285714285714,
+    "f1": 0.09302325581395347,
+    "accuracy": 0.9747409326424871,
+    "tn": 1503,
+    "fp": 6,
+    "fn": 33,
+    "tp": 2,
+    "eval_len": 1544
+  },
+  "n_train_windows_fit": 269,
+  "n_test_windows": 1544
+}

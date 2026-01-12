@@ -1,0 +1,15 @@
+{
+  "dataset": "InternalBleeding16",
+  "method": "z_score",
+  "threshold": 2.548800494758043,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.9938105062688463,
+  "tn": 6262,
+  "fp": 27,
+  "fn": 12,
+  "tp": 0,
+  "eval_len": 6301
+}

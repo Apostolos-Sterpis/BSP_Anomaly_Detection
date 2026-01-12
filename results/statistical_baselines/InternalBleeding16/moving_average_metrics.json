@@ -1,0 +1,15 @@
+{
+  "dataset": "InternalBleeding16",
+  "method": "moving_average",
+  "threshold": 33.38265535949206,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.9904777019520711,
+  "tn": 6241,
+  "fp": 48,
+  "fn": 12,
+  "tp": 0,
+  "eval_len": 6301
+}

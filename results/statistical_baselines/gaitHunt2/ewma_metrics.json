@@ -1,0 +1,15 @@
+{
+  "dataset": "gaitHunt2",
+  "method": "ewma",
+  "threshold": 1215.973508357939,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.9705054945054945,
+  "tn": 44158,
+  "fp": 692,
+  "fn": 650,
+  "tp": 0,
+  "eval_len": 45500
+}

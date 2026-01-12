@@ -1,0 +1,28 @@
+{
+  "dataset": "PowerDemand1",
+  "method": "ocsvm",
+  "threshold": 0.0002678040767729217,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.8010606277769815,
+  "tn": 16767,
+  "fp": 3828,
+  "fn": 336,
+  "tp": 0,
+  "eval_len": 20931,
+  "window_metrics": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 0.9163622380311478,
+    "tn": 4766,
+    "fp": 319,
+    "fn": 116,
+    "tp": 0,
+    "eval_len": 5201
+  },
+  "n_train_windows_fit": 2219,
+  "n_test_windows": 5201
+}

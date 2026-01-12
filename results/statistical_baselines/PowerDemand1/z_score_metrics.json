@@ -1,0 +1,15 @@
+{
+  "dataset": "PowerDemand1",
+  "method": "z_score",
+  "threshold": 2.1585071375226748,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.981271797811858,
+  "tn": 20539,
+  "fp": 56,
+  "fn": 336,
+  "tp": 0,
+  "eval_len": 20931
+}

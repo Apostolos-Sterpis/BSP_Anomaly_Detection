@@ -1,17 +1,19 @@
-# Ignore large datasets
-data/*/method_ready/*.npy
-data/*/cleaned/*.csv
-data/*/cleaned/*.json
-
-# Optional: ignore all data outputs except raw
-data/
-
-# Ignore results/ plots
-results/
-
-# Ignore Jupyter checkpoints
-notebooks/.ipynb_checkpoints/
-
-# macOS files
+# macOS
 .DS_Store
 
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep all datasets out of Git)
+data/
+
+# Large numpy arrays (keep out of Git)
+*.npy

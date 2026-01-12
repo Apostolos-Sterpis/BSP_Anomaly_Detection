@@ -1,0 +1,29 @@
+{
+  "dataset": "InternalBleeding16",
+  "method": "matrix_profile",
+  "threshold": 4.144407848544488,
+  "q": 0.995,
+  "precision": 0.012168141592920354,
+  "recall": 0.9166666666666666,
+  "f1": 0.024017467248908297,
+  "accuracy": 0.8581177590858594,
+  "tn": 5396,
+  "fp": 893,
+  "fn": 1,
+  "tp": 11,
+  "eval_len": 6301,
+  "window_metrics": {
+    "precision": 0.1111111111111111,
+    "recall": 0.02857142857142857,
+    "f1": 0.04545454545454545,
+    "accuracy": 0.9727979274611399,
+    "tn": 1501,
+    "fp": 8,
+    "fn": 34,
+    "tp": 1,
+    "eval_len": 1544
+  },
+  "mp_window_size": 128,
+  "n_train_windows": 269,
+  "n_test_windows": 1544
+}

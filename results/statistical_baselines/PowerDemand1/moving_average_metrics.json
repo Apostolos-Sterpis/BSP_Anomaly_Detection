@@ -1,0 +1,15 @@
+{
+  "dataset": "PowerDemand1",
+  "method": "moving_average",
+  "threshold": 85.06460156249977,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.9820839902536908,
+  "tn": 20556,
+  "fp": 39,
+  "fn": 336,
+  "tp": 0,
+  "eval_len": 20931
+}

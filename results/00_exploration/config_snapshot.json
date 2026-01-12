@@ -1,0 +1,27 @@
+{
+  "random_seed": 42,
+  "window_size": 128,
+  "stride": 4,
+  "plot_zoom_margin": 2000,
+  "datasets_selected_in_config": [
+    "respiration1",
+    "PowerDemand1",
+    "gaitHunt2",
+    "InternalBleeding4",
+    "InternalBleeding16"
+  ],
+  "pinned_raw_files": {
+    "respiration1": "186_UCR_Anomaly_respiration1_100000_110260_110412.txt",
+    "PowerDemand1": "152_UCR_Anomaly_PowerDemand1_9000_18485_18821.txt",
+    "gaitHunt2": "171_UCR_Anomaly_gaitHunt2_18500_31200_31850.txt",
+    "InternalBleeding4": "032_UCR_Anomaly_DISTORTEDInternalBleeding4_1000_4675_5033.txt",
+    "InternalBleeding16": "098_UCR_Anomaly_NOISEInternalBleeding16_1200_4187_4199.txt"
+  },
+  "candidates": [
+    "respiration1",
+    "PowerDemand1",
+    "gaitHunt2",
+    "InternalBleeding4",
+    "InternalBleeding16"
+  ]
+}

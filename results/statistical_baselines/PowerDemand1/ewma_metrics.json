@@ -1,0 +1,15 @@
+{
+  "dataset": "PowerDemand1",
+  "method": "ewma",
+  "threshold": 86.47333653547327,
+  "q": 0.995,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "accuracy": 0.9810806937078974,
+  "tn": 20535,
+  "fp": 60,
+  "fn": 336,
+  "tp": 0,
+  "eval_len": 20931
+}
